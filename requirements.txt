@@ -1,5 +1,5 @@
 beautifulsoup4==4.9.0
-lxml==4.2.1
+lxml==4.6.2
 mysql-connector-python==8.0.19
 regex==2020.4.4
 selenium==3.141.0
